@@ -1,0 +1,13 @@
+atomicwrites
+attrs
+loguru
+more-itertools
+packaging
+pluggy
+py
+pyparsing
+pytest
+python-dotenv
+redis
+six
+wcwidth
